@@ -1,0 +1,42 @@
+form {
+    margin: 35px;
+}
+
+.contact-box{
+    width: 500px;
+    border-radius: 5px;
+    box-shadow: 0 0 20px 0 #999;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    background-color: #a5d5e7d8;
+}
+
+.input-field {
+    caret-color: black;
+    color: black;
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    border: 1px solid #1b0404;
+    border-radius: 14px;
+    outline: none;
+    background: transparent;
+}
+
+.textarea-field {
+    height: 150px;
+    padding: 10px;
+}
+
+.btn {
+    border-radius: 20px;
+    color: #fff;
+    margin-top: 18px;
+    padding: 10px;
+    background-color: #47c35a;
+    border: none;
+    cursor: pointer;
+}

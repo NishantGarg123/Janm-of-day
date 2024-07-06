@@ -1,0 +1,31 @@
+.container1{
+
+    display: flex;
+    /* width: 1000px; */
+    height: 300px;
+    margin: 104px;
+
+
+}
+
+#output,#output2,#dob{
+
+    height: 40PX;
+    width: 200PX;
+    background-color: black;
+    color: white;
+    margin: 15px;
+    
+}
+
+
+
+.tt1,.tt2,.tt3,.tt4,.tt5{
+
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+
+ 
+}
+
